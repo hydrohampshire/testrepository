@@ -2,4 +2,6 @@
 
 ## Editing the file
 
-It's a markdown file in this repository.
+
+Practice is the best way to get comfortable with difficult tasks.
+hey there, I am interested in learning more about computer languages
